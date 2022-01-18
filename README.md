@@ -1,1 +1,0 @@
-# vue-gantt-demo
